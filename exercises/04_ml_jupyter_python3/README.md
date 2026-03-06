@@ -15,7 +15,7 @@ cd /vagrant/exercises/04_ml_jupyter_python3
 
 # 1. Clonar el repo y aplicar los parches automáticamente
 chmod +x clone_and_patch.sh
-./clone_and_patch.sh
+bash ./clone_and_patch.sh
 
 # 2. Entrar al directorio clonado
 cd ml-jupyter-python3
